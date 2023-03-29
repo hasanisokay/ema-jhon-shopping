@@ -20,6 +20,8 @@ export default {
           "base-100": "#2E424D",
 
           "info": "#1C2B35",
+          
+          "offwhite":"#2A414F",
 
           "success": "#7BEADB",
 
