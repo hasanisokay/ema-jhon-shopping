@@ -2,10 +2,10 @@ import React from 'react';
 import logo from '../../images/Logo.svg'
 const Header = () => {
     return (
-        <div className=''>
+        <div className='m-0 p-0'>
             <div className="navbar bg-info">
                 <div className="flex-1">
-                    <img src={logo} alt="" />
+                <img src={logo} alt="" />
                 </div>
                 <div className="flex-none">
                     <ul className="menu menu-horizontal px-1 text-white">
